@@ -9,9 +9,9 @@ public class Main {
     private final static String Dataset2PathNoExt = "./data/dataset_2";
     private final static String Dataset3PathNoExt = "./data/dataset_3";
 
-    private final static String[] QueryWords1 = new String[]{"white", "blood", "cells", "count"};
-    private final static String[] QueryWords2 = new String[]{"glucose", "blood"};
-    private final static String[] QueryWords3 = new String[]{"bilirubin", "blood"};
+    private final static String[] QueryWords1 = new String[]{"white", "blood", "cells", "count", "hemoglobin", "plasma", "leucocyte"};
+    private final static String[] QueryWords2 = new String[]{"glucose", "blood", "sugar", "hemoglobin"};
+    private final static String[] QueryWords3 = new String[]{"bilirubin", "plasma"};
 
     public static void main(String[] args) {
         try {
