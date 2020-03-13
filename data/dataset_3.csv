@@ -8,11 +8,11 @@ loinc_num,long_common_name                                                      
 13317-3  ,Methicillin resistant Staphylococcus aureus [Presence] in Unspecified specimen by Organi  ,Staphylococci  ,XXX         ,ACnc
 882-1    ,A80 & Rh group [Type] in Blood                                                            ,ABO+Rh grou    ,Bid         ,Type
 26464-8  ,Leukocytes [ll/volume] in Blood                                                           ,Leukocytes     ,Bid         ,NCnc
-1968-7   ,Biiirubin direct [Mass/volume] in Serum or Plasma                                         ,Billrubin.gluct,Ser/Plas    ,hncnc
+1968-7   ,Biiirubin direct [Mass/volume] in Serum or Plasma                                         ,Billrubin gluct,Ser/Plas    ,hncnc
 8310-5   ,Body temperature                                                                          ,Body tempera   ,Patient     ,Temp
 30522-7  ,C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method            ,C reactive pro ,Ser/Plas    ,nACnc
 18878-9  ,Cefazoiin [Susceptibility]                                                                ,Cefazolin      ,Isolate     ,Susc
-1994-3   ,Calcium ionized [Moles/volume] in Blood                                                   ,Calcium.ionizi ,Bid         ,SCnc
+1994-3   ,Calcium ionized [Moles/volume] in Blood                                                   ,Calcium ionizi ,Bid         ,SCnc
 1975-2   ,Bilirubin total [Mass/volume] in Serum or Plasma                                          ,Bilirubin      ,Ser/Plas    ,hncnc
 2093-3   ,Cholesterol [Mass/volume] in Serum or Plasma                                              ,Cholesterol    ,Ser/Plas    ,MCnc
 10331-7  ,Rh [Type] in Blood                                                                        ,Rh             ,Bid         ,Type
@@ -31,7 +31,7 @@ loinc_num,long_common_name                                                      
 20442-0  ,Hepatitis B virus DNA [ll/volume] (viral load) in Serum by Probe with signal amplification,Hepatitis 8 vii,Ser         ,NCnc
 74774-1  ,Glucose [Mass/volume] in Serum Plasma or Blood                                            ,Glucose        ,Ser/Plas/Bid,MCnc
 14747-0  ,Glucose [Moles/volume] in Pleural ﬂuid                                                    ,Glucose        ,Plr fid     ,SCnc
-35192-4  ,Bilirubin indirect [Mass or Moles/volume] in Serum or Plasma                              ,Bilirubin.non  ,Ser/Plas    ,hASCnc
+35192-4  ,Bilirubin indirect [Mass or Moles/volume] in Serum or Plasma                              ,Bilirubin non  ,Ser/Plas    ,hASCnc
 2143-6   ,Cortisol [Mass/volume] in Serum or Plasma                                                 ,Cortisol       ,Ser/Plas    ,MCnc
 2039-6   ,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma                                      ,Carcinoembry   ,Ser/Plas    ,MCnc
 26474-7  ,Lymphocytes [#/volume] in Blood                                                           ,Lymphocytes    ,Bid         ,NCnc
