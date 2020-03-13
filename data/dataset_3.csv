@@ -1,68 +1,68 @@
-loinc_num,long_common_name                                                                          ,component                              ,system       ,property
-934-0    ,Blood product unit ID [ll]                                                                ,Blood product                          ,Dose         ,Nuni
-1742-6   ,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma                   ,Alanine aminr                          ,Ser/Plas     ,CCnc
-20565-8  ,Carbon dioxide total [Moles/volume] in Blood                                              ,Carbon dioxid                          ,Bld          ,SCnc
-1959-6   ,Bicarbonate [Moles/volume] in Blood                                                       ,Bicarbonate                            ,Bid          ,SCnc
-18906-8  ,Ciprofloxacin [Susceptibility]                                                            ,Ciprolloxacin                          ,Isolate      ,Susc
-18865-6  ,Amplcillin+5ulbactam [Susceptibility]                                                     ,Amplcillimsu                           ,Isolate      ,Susc
-13317-3  ,Methicillin resistant Staphylococcus aureus [Presence] in Unspecified specimen by Organi  ,Staphylococci                          ,XXX          ,ACnc
-882-1    ,A80 & Rh group [Type] in Blood                                                            ,ABO+Rh grou                            ,Bid          ,Type
-26464-8  ,Leukocytes [ll/volume] in Blood                                                           ,Leukocytes                             ,Bid          ,NCnc
-1968-7   ,Biiirubin direct [Mass/volume] in Serum or Plasma                                         ,Billrubin.gluct                        ,Ser/Plas     ,hncnc
-8310-5   ,Body temperature                                                                          ,Body tempera                           ,Patient      ,Temp
-30522-7  ,C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method            ,C reactive pro                         ,Ser/Plas     ,nACnc
-18878-9  ,Cefazoiin [Susceptibility]                                                                ,Cefazolin                              ,Isolate      ,Susc
-1994-3   ,Calcium ionized [Moles/volume] in Blood                                                   ,Calcium.ionizi                         ,Bid          ,SCnc
-1975-2   ,Bilirubin total [Mass/volume] in Serum or Plasma                                          ,Bilirubin                              ,Ser/Plas     ,hncnc
-2093-3   ,Cholesterol [Mass/volume] in Serum or Plasma                                              ,Cholesterol                            ,Ser/Plas     ,MCnc
-10331-7  ,Rh [Type] in Blood                                                                        ,Rh                                     ,Bid          ,Type
-1250-0   ,Major crossmatch [interpretation]                                                         ,Major cross                            ,Ser/Plas     ,hnp
-18955-S  ,Nitrofurantoin [Susceptibility]                                                           ,Nitrofurantoii                         ,Isolate      ,Susc
-19000-9  ,Vancomycin [Susceptibility]                                                               ,Vancomycin                             ,Isolate      ,Susc
-18864-9  ,Ampicillin [Susceptibility]                                                               ,Ampicillin                             ,Isolate      ,Susc
-890-4    ,Blood group antibody screen [Presence] in Serum or Plasma                                 ,Blood group a                          ,Ser/Plas     ,ACnc
-14578-9  ,ABO group [Type] in Blood from Blood product unit                                         ,ABO group                              ,Bld^BPU      ,Type
-17861-6  ,Calcium [Mass/volume] in Serum or Plasma                                                  ,Calcium                                ,Ser/Plas     ,MCnc
-1759-0   ,Albumin/Globulin [Mass ratio] in Serum or Plasma                                          ,Albumin/Giol                           ,Ser/Plas     ,MCrto
-2028-9   ,Carbon dioxide                                                                            ,total [Moles/volume] in Serum or Plasma,Carbon dioxid,Ser/Plas,SCnc
-883-9    ,ABO group [Type] in Blood                                                                 ,A80 group                              ,Bid          ,Type
-23658-8  ,Other Antibiotic [Susceptibility]                                                         ,Antibiotic                             ,Isolate      ,Susc
-1971-1   ,Bllirubin indirect [Mass/volume] in Serum or Plasma                                       ,Bilirubin                              ,Ser/Plas     ,MCnc
-20442-0  ,Hepatitis B virus DNA [ll/volume] (viral load) in Serum by Probe with signal amplification,Hepatitis 8 vii                        ,Ser          ,NCnc
-74774-1  ,Glucose [Mass/volume] in Serum Plasma or Blood                                            ,Glucose                                ,Ser/Plas/Bid ,MCnc
-14747-0  ,Glucose [Moles/volume] in Pleural ﬂuid                                                    ,Glucose                                ,Plr fid      ,SCnc
-35192-4  ,Bilirubin indirect [Mass or Moles/volume] in Serum or Plasma                              ,Bilirubin.non                          ,Ser/Plas     ,hASCnc
-2143-6   ,Cortisol [Mass/volume] in Serum or Plasma                                                 ,Cortisol                               ,Ser/Plas     ,MCnc
-2039-6   ,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma                                      ,Carcinoembry                           ,Ser/Plas     ,MCnc
-26474-7  ,Lymphocytes [#/volume] in Blood                                                           ,Lymphocytes                            ,Bid          ,NCnc
-3082-5   ,Tyrosine aminotransferase [Mass/volume] in Plasma                                         ,Tyrosine amir                          ,Plas         ,MCnc
-14423-8  ,Bilirubin total [Mass/volume] in Synovial ﬂuid                                            ,Bilirubin                              ,Synv fld     ,MCnc
-18928-2  ,Gentamicin [Susceptibility]                                                               ,Gentamicin                             ,isolate      ,Susc
-26478-8  ,Lymphocytes/100 leukocytes in Blood                                                       ,Lymphocytes                            ,Bld          ,NFr
-1003-3   ,indirect antiglobuiin test complement specific reagent [Presence] in Serum or Plasma      ,Indirect                               ,Ser/Plas     ,ACnc
-14749-6  ,Glucose [Moles/volume] in Serum or Plasma                                                 ,Glucose                                ,Ser/Plas     ,SCnc
-933-2    ,Blood product type                                                                        ,Blood product                          ,^BPU         ,Type
-26484-6  ,Monocytes [ll/volume] in Blood                                                            ,Monocytes                              ,Bld          ,NCnc
-1751-7   ,Albumin [Mass/volume] in Serum or Plasma                                                  ,Albumin                                ,Ser/Plas     ,MCnc
-2132-9   ,Cobalamin (Vitamin B12) [Mass/volume] in Serum                                            ,Cobalamins                             ,Ser          ,MCnc
-14764-5  ,Glucose [Moles/volume] in Serum or Plasma -3 hours post 100 g glucose P0                  ,Glucose3H p                            ,Ser/Plas     ,SCnc
-15076-3  ,Glucose [Moles/volume] in Urine                                                           ,Glucose                                ,Urine        ,SCnc
-19080-1  ,Choriogonadotropin [Units/volume] in Serum or Plasma                                      ,Choriogonadc                           ,Ser/Plas     ,ACnc
-925-8    ,Blood product disposition [Type]                                                          ,Blood product                          ,^BPU         ,Type
-20629-2  ,Levoﬂoxacin [Susceptibility]                                                              ,Levoﬂoxacin                            ,Isolate      ,Susc
-2111-3   ,Choriogonadotropin beta subunit [Moles/volume] in Serum or Plasma                         ,Choriogonadc                           ,Ser/Plas     ,SCnc
-29265-6  ,Calcium [Moles/volume] corrected for albumin in Serum or Plasma                           ,Calcium^cor                            ,Ser/Plas     ,SCnc
-35184-1  ,Fasting glucose [Mass or Moles/volume] in Serum or Plasma                                 ,Glucose^post                           ,Ser/Plas     ,hASCnc
-2069-3   ,Chloride [Moles/volume] in Blood                                                          ,Chloride                               ,Bld          ,SCnc
-6768-6   ,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma                       ,Alkaline phosg                         ,Ser/Plas     ,CCnc
-31100-1  ,Hematocrit [Volume Fraction] of Blood by impedance                                        ,Hematocrit                             ,Bld          ,VFr
-1798-8   ,Amylase [Enzymatic activity/volume] in Serum or Plasma                                    ,Amylase                                ,Ser/Plas     ,CCnc
-2075-0   ,Chloride [Moles/volume] in Serum or Plasma                                                ,Chloride                               ,Ser/Plas     ,SCnc
-4671-4   ,Protein C [Mass/volume] in Plasma                                                         ,Protein C                              ,Plas         ,MCnc
-18998-S  ,Trimethoprim+Sulfamethoxazole [Susceptibility]                                            ,Trimethoprim                           ,Isolate      ,Susc
-54439-5  ,Calcium bilirubinate/Total in Stone                                                       ,Calcium biliru                         ,Calculus     ,hAFr
-1920-8   ,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma                 ,Aspartate am                           ,Ser/Plas     ,CCnc
-2085-9   ,Cholesterol in HDL [Mass/volume] in Serum or Plasma                                       ,Cho|esteroi.in                         ,Ser/Plas     ,hACnc
-1995-0   ,Calcium ionized [Moles/volume] in Serum or Plasma                                         ,Calcium.ionizi                         ,Ser/Plas     ,SCnc
-33870-7  ,Bilirubin total [Presence] in Unspeciﬁed specimen                                         ,Bilirubin                              ,XXX          ,PrThr
-1988-5   ,C reactive protein [Mass/volume] in Serum or Plasma                                       ,C reactive pro                         ,Ser/Plas     ,hncnc
+loinc_num,long_common_name                                                                          ,component      ,system      ,property
+934-0    ,Blood product unit ID [ll]                                                                ,Blood product  ,Dose        ,Nuni
+1742-6   ,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma                   ,Alanine aminr  ,Ser/Plas    ,CCnc
+20565-8  ,Carbon dioxide total [Moles/volume] in Blood                                              ,Carbon dioxid  ,Bld         ,SCnc
+1959-6   ,Bicarbonate [Moles/volume] in Blood                                                       ,Bicarbonate    ,Bid         ,SCnc
+18906-8  ,Ciprofloxacin [Susceptibility]                                                            ,Ciprolloxacin  ,Isolate     ,Susc
+18865-6  ,Amplcillin+5ulbactam [Susceptibility]                                                     ,Amplcillimsu   ,Isolate     ,Susc
+13317-3  ,Methicillin resistant Staphylococcus aureus [Presence] in Unspecified specimen by Organi  ,Staphylococci  ,XXX         ,ACnc
+882-1    ,A80 & Rh group [Type] in Blood                                                            ,ABO+Rh grou    ,Bid         ,Type
+26464-8  ,Leukocytes [ll/volume] in Blood                                                           ,Leukocytes     ,Bid         ,NCnc
+1968-7   ,Biiirubin direct [Mass/volume] in Serum or Plasma                                         ,Billrubin.gluct,Ser/Plas    ,hncnc
+8310-5   ,Body temperature                                                                          ,Body tempera   ,Patient     ,Temp
+30522-7  ,C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method            ,C reactive pro ,Ser/Plas    ,nACnc
+18878-9  ,Cefazoiin [Susceptibility]                                                                ,Cefazolin      ,Isolate     ,Susc
+1994-3   ,Calcium ionized [Moles/volume] in Blood                                                   ,Calcium.ionizi ,Bid         ,SCnc
+1975-2   ,Bilirubin total [Mass/volume] in Serum or Plasma                                          ,Bilirubin      ,Ser/Plas    ,hncnc
+2093-3   ,Cholesterol [Mass/volume] in Serum or Plasma                                              ,Cholesterol    ,Ser/Plas    ,MCnc
+10331-7  ,Rh [Type] in Blood                                                                        ,Rh             ,Bid         ,Type
+1250-0   ,Major crossmatch [interpretation]                                                         ,Major cross    ,Ser/Plas    ,hnp
+18955-S  ,Nitrofurantoin [Susceptibility]                                                           ,Nitrofurantoii ,Isolate     ,Susc
+19000-9  ,Vancomycin [Susceptibility]                                                               ,Vancomycin     ,Isolate     ,Susc
+18864-9  ,Ampicillin [Susceptibility]                                                               ,Ampicillin     ,Isolate     ,Susc
+890-4    ,Blood group antibody screen [Presence] in Serum or Plasma                                 ,Blood group a  ,Ser/Plas    ,ACnc
+14578-9  ,ABO group [Type] in Blood from Blood product unit                                         ,ABO group      ,Bld^BPU     ,Type
+17861-6  ,Calcium [Mass/volume] in Serum or Plasma                                                  ,Calcium        ,Ser/Plas    ,MCnc
+1759-0   ,Albumin/Globulin [Mass ratio] in Serum or Plasma                                          ,Albumin/Giol   ,Ser/Plas    ,MCrto
+2028-9   ,Carbon dioxide total [Moles/volume] in Serum or Plasma                                    ,Carbon dioxid  ,Ser/Plas    ,SCnc
+883-9    ,ABO group [Type] in Blood                                                                 ,A80 group      ,Bid         ,Type
+23658-8  ,Other Antibiotic [Susceptibility]                                                         ,Antibiotic     ,Isolate     ,Susc
+1971-1   ,Bllirubin indirect [Mass/volume] in Serum or Plasma                                       ,Bilirubin      ,Ser/Plas    ,MCnc
+20442-0  ,Hepatitis B virus DNA [ll/volume] (viral load) in Serum by Probe with signal amplification,Hepatitis 8 vii,Ser         ,NCnc
+74774-1  ,Glucose [Mass/volume] in Serum Plasma or Blood                                            ,Glucose        ,Ser/Plas/Bid,MCnc
+14747-0  ,Glucose [Moles/volume] in Pleural ﬂuid                                                    ,Glucose        ,Plr fid     ,SCnc
+35192-4  ,Bilirubin indirect [Mass or Moles/volume] in Serum or Plasma                              ,Bilirubin.non  ,Ser/Plas    ,hASCnc
+2143-6   ,Cortisol [Mass/volume] in Serum or Plasma                                                 ,Cortisol       ,Ser/Plas    ,MCnc
+2039-6   ,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma                                      ,Carcinoembry   ,Ser/Plas    ,MCnc
+26474-7  ,Lymphocytes [#/volume] in Blood                                                           ,Lymphocytes    ,Bid         ,NCnc
+3082-5   ,Tyrosine aminotransferase [Mass/volume] in Plasma                                         ,Tyrosine amir  ,Plas        ,MCnc
+14423-8  ,Bilirubin total [Mass/volume] in Synovial ﬂuid                                            ,Bilirubin      ,Synv fld    ,MCnc
+18928-2  ,Gentamicin [Susceptibility]                                                               ,Gentamicin     ,isolate     ,Susc
+26478-8  ,Lymphocytes/100 leukocytes in Blood                                                       ,Lymphocytes    ,Bld         ,NFr
+1003-3   ,indirect antiglobuiin test complement specific reagent [Presence] in Serum or Plasma      ,Indirect       ,Ser/Plas    ,ACnc
+14749-6  ,Glucose [Moles/volume] in Serum or Plasma                                                 ,Glucose        ,Ser/Plas    ,SCnc
+933-2    ,Blood product type                                                                        ,Blood product  ,^BPU        ,Type
+26484-6  ,Monocytes [ll/volume] in Blood                                                            ,Monocytes      ,Bld         ,NCnc
+1751-7   ,Albumin [Mass/volume] in Serum or Plasma                                                  ,Albumin        ,Ser/Plas    ,MCnc
+2132-9   ,Cobalamin (Vitamin B12) [Mass/volume] in Serum                                            ,Cobalamins     ,Ser         ,MCnc
+14764-5  ,Glucose [Moles/volume] in Serum or Plasma -3 hours post 100 g glucose P0                  ,Glucose3H p    ,Ser/Plas    ,SCnc
+15076-3  ,Glucose [Moles/volume] in Urine                                                           ,Glucose        ,Urine       ,SCnc
+19080-1  ,Choriogonadotropin [Units/volume] in Serum or Plasma                                      ,Choriogonadc   ,Ser/Plas    ,ACnc
+925-8    ,Blood product disposition [Type]                                                          ,Blood product  ,^BPU        ,Type
+20629-2  ,Levoﬂoxacin [Susceptibility]                                                              ,Levoﬂoxacin    ,Isolate     ,Susc
+2111-3   ,Choriogonadotropin beta subunit [Moles/volume] in Serum or Plasma                         ,Choriogonadc   ,Ser/Plas    ,SCnc
+29265-6  ,Calcium [Moles/volume] corrected for albumin in Serum or Plasma                           ,Calcium^cor    ,Ser/Plas    ,SCnc
+35184-1  ,Fasting glucose [Mass or Moles/volume] in Serum or Plasma                                 ,Glucose^post   ,Ser/Plas    ,hASCnc
+2069-3   ,Chloride [Moles/volume] in Blood                                                          ,Chloride       ,Bld         ,SCnc
+6768-6   ,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma                       ,Alkaline phosg ,Ser/Plas    ,CCnc
+31100-1  ,Hematocrit [Volume Fraction] of Blood by impedance                                        ,Hematocrit     ,Bld         ,VFr
+1798-8   ,Amylase [Enzymatic activity/volume] in Serum or Plasma                                    ,Amylase        ,Ser/Plas    ,CCnc
+2075-0   ,Chloride [Moles/volume] in Serum or Plasma                                                ,Chloride       ,Ser/Plas    ,SCnc
+4671-4   ,Protein C [Mass/volume] in Plasma                                                         ,Protein C      ,Plas        ,MCnc
+18998-S  ,Trimethoprim+Sulfamethoxazole [Susceptibility]                                            ,Trimethoprim   ,Isolate     ,Susc
+54439-5  ,Calcium bilirubinate/Total in Stone                                                       ,Calcium biliru ,Calculus    ,hAFr
+1920-8   ,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma                 ,Aspartate am   ,Ser/Plas    ,CCnc
+2085-9   ,Cholesterol in HDL [Mass/volume] in Serum or Plasma                                       ,Cho|esteroi.in ,Ser/Plas    ,hACnc
+1995-0   ,Calcium ionized [Moles/volume] in Serum or Plasma                                         ,Calcium.ionizi ,Ser/Plas    ,SCnc
+33870-7  ,Bilirubin total [Presence] in Unspeciﬁed specimen                                         ,Bilirubin      ,XXX         ,PrThr
+1988-5   ,C reactive protein [Mass/volume] in Serum or Plasma                                       ,C reactive pro ,Ser/Plas    ,hncnc
