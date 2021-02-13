@@ -39,7 +39,7 @@ In order to define an objective function to maximize, the paper defines for an u
 Pr(q,r*) of queries and target rankings on a document collection D with m documents a retrieval function.
 
 ## Proposed solution
-The proposed solution and more details about the implementation can be found in the project [report](report.pdf).
+The proposed solution and more details about the implementation can be found in the project [report](docs/report.pdf).
 
 ## Authors
 - Angel Igareta
