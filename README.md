@@ -41,6 +41,17 @@ Pr(q,r*) of queries and target rankings on a document collection D with m docume
 ## Proposed solution
 The proposed solution and more details about the implementation can be found in the project [report](docs/report.pdf).
 
+## Results
+For the given queries, we obtained the following results:
+|               | Glucose in blood | Bilirubin in plasma | White blood cells count |
+| ------------- |:----------------:|:-------------------:| ----------------------:|
+#1 | Glucose [Moles/volume] in Urine | Bilirubin total [Mass/volume] in Synovial fluid | Billrubin total [Presence] in Unspecfied specimen |
+#2 | Glucose [Moles/volume] in Pleural fluid | Bilirubin indirect [Mass/volume] in Serum or Plasma | Nitrofurantoin [Susceptibility] |
+#3 | Glucose [Moles/volume] in Serum or Plasma | Bilirubin direct [Mass/volume] in Serum or Plasma | Cholesterol [Mass/volume] in Serum or Plasma |
+#4 | Glucose [Mass/volume] in Serum Plasma or Blood | Bilirubin total [Mass/volume] in Serum or Plasma | Trimethoprim+Sulfamethoxazole [Susceptibility] |
+#5 | Cholesterol in l-iDL [Mass/volume] in Serum or Plasma | Cholesterol in l-iDL [Mass/volume] in Serum or Plasma | Blood group antibody screen [Presence] in Serum or Plasma |
+
+
 ## Authors
 - Angel Igareta
 - David Burrell
